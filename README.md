@@ -1,4 +1,4 @@
-# EE538 Final Project - Fall 2024 - TrojanMap
+# EE538 Final Project - Spring 2025 - TrojanMap
 
 The project is **optional**: you can select one of the following options:
 
@@ -7,7 +7,7 @@ The project is **optional**: you can select one of the following options:
 
 If you choose to work on the project, you don't have to submit the remaining homework assignments. Similarly, if you choose to work on the homework assignment, you do not have to submit the project. 
 
-You should inform us of your choice by the first due date (Sunday, November 10).
+You should inform us of your choice by the first due date (Thursday, April 10).
 
 #### Who should work on the project?
 If you plan to become a software engineer, we recommend working on the project as it will give you more experience coding a real-life project. Otherwise, you can take the homework assignments.
@@ -18,7 +18,7 @@ Not everything in the project is covered in the class. The idea is for you to do
 We expect both options to take a similar amount of time. The project, however, might require extra effort from you during the environment setup and installation prerequisites.
 
 #### How many students in each team?
-Each team should consist of one or two students. You can find a teammate who is in other sections of the course. You should select your teammates by the first due date (November 10).
+Each team should consist of one or two students. You can find a teammate who is in other sections of the course. You should select your teammates by the first due date (April 10).
 
 #### What should I submit?
 The project is submitted in different phases. You are required to submit the following:
@@ -37,11 +37,11 @@ The project is submitted in different phases. You are required to submit the fol
 
 ## Due Dates
 
-- Phase 1: Sunday, November 10, 23:59
-- Phase 2: Sunday, Novermber 17, 23:59
-- Phase 3: Sunday, December 1, 23:59
-- Video Presentation: Sunday, December 1, 23:59
-- Report: Sunday, December 8, 23:59
+- Phase 1: Thursday, April 10, 23:59
+- Phase 2: Wednesday, April 16, 23:59
+- Phase 3: Wednesday, April 30, 23:59
+- Video Presentation: Wednesday, April 30, 23:59
+- Report: Wednesday, May 7, 23:59
 
 ## TrojanMap
 
